@@ -10,13 +10,13 @@
 
 ## Installation
 
-1.1 Backend
+Backend
 
 ```
 yarn
 ```
 
-1.2 Frontend
+Frontend
 
 ```
 cd client and yarn
@@ -24,13 +24,13 @@ cd client and yarn
 
 ## Start
 
-2.1 Backend
+Backend
 
 ```
 yarn start
 ```
 
-2.2 Frontend
+Frontend
 
 ```
 yarn client or cd client && yarn start
