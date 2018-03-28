@@ -40,7 +40,7 @@
 
 最後將指令整合至`create-react-app`所產生的`react-script`
 
-安裝`npm-run-all`
+安裝`npm-run-all`
 
 ```sh
 yarn add npm-run-all
