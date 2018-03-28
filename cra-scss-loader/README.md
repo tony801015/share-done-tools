@@ -35,7 +35,6 @@
 現在可以將 `src/App.css` 重新命名為 `src/App.scss`，然後運行 `yarn run watch-css`，預處理器將輸出`App.css`，所以您只需要引入`App.css`。
 
 > 注意：要使用不同預處理器則需替換 `build-css` 和 `watch-css`
-> 
 
 ## 整合指令
 
