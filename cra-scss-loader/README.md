@@ -69,4 +69,4 @@ npm install --save npm-run-all
    }
 ```
 
- 現在您可以執行 `yarn start` 或 `yarn build`。
+現在您可以執行 `yarn start` 或 `yarn build`。
