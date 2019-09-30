@@ -6,6 +6,7 @@
   "dependencies": {
     "eslint": "^6.5.0",
     "js-yaml": "^3.13.1",
+    "mem": "^5.1.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
@@ -15,5 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.8.1"
   }
 }
